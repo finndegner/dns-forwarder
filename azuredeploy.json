@@ -77,12 +77,6 @@
       "metadata": {
         "description": "SSH Key or password for the Virtual Machine. SSH key is recommended."
       }
-    },
-    "proxyAddress": {
-      "type": "string",
-      "metadata": {
-        "description": "The proxy address for both HTTP and HTTPS."
-      }
     }
   },
   "variables": {
